@@ -250,7 +250,9 @@ width: 100%;
   padding:11px 17px;
   margin-top: 16px;
 }
-
+.form-contact .submit:hover{
+   background-color: rgba(0, 0, 0, 0.3);
+}
 /* Img  */
 .content .img-background img{
   width: 100%;
